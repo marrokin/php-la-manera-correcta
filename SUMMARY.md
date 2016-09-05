@@ -21,14 +21,19 @@
     * [Interface de linea de comandos](interface-de-linea-de-comandos.md)
     * [XDebug](xdebug.md)
 * [Gestión de dependencias](gestion-de-dependencias.md)
-    * Composer y Packagist
-        * Como configurar composer
-        * Como configurar composer \(Manualmente\)
-        * Como definir y configurar dependencias
-    * PEAR
+    * [Composer y Packagist](composer-y-packagist.md)
+        * [Como configurar composer](como-configurar-composer.md)
+        * [Como configurar composer \(Manualmente\)](como-configurar-composer-manualmente.md)
+        * [Como definir y configurar dependencias](como-definir-y-configurar-dependencias.md)
+    * [PEAR](pear.md)
+* [Inyección de dependencias](inyección-de-dependencias.md)
+    * Basic Concept
+    * Complex problem
+    * Containers
+    * Futher reading
 * [Buenas prácticas](buenas-practicas.md)
-    * Fundamentos
-    * Fecha y hora
+    * [Fundamentos](fundamentos.md)
+    * [Fecha y hora](fecha-y-hora.md)
     * Patrones de diseño
     * Trabajando con UTF-8
         * There’s no one-liner. Be careful, detailed, and consistent.
@@ -36,13 +41,6 @@
         * UTF-8 at the Database level
         * UTF-8 at the browser level
         * Futher reading
-
------
-* [Inyección de dependencias](inyección-de-dependencias.md)
-    * Basic Concept
-    * Complex problem
-    * Containers
-    * Futher reading
 * [Bases de datos](bases-de-datos.md)
     * MySQL extension
     * PDO extension
@@ -59,18 +57,14 @@
     * Fother reading
         * Articles & tutorials
         * Libraries
-
------
-* Error & Exceptions
-    * Errors
+* [Error & Exceptions](error--exceptions.md)
+    * [Errors](errors.md)
         * Error severity
         * Changing PHP's Error reporting behaviour
         * Inline error suppression
         * ErrorException
-    * Exceptions
+    * [Exceptions](exceptions.md)
         * SPL Exceptions
-
------
 * Seguridad
     * Seguridad en aplicaciones web
     * Hash de contraseñas
@@ -82,8 +76,6 @@
     * Reporte de errores
         * Desarrollo
         * Producción
-
------
 * Pruebas
     * Test driven development
         * Unit testing
@@ -93,8 +85,6 @@
             * Enlaces de BDD
         * Herramientes complementarias de pruebas
             * Enlaces de herramientas
-
------
 * Servidores y despliegue
     * Plataforma como servicio \(PaaS\)
     * Servidores virtuales o dedicados
@@ -104,16 +94,12 @@
     * Building and deploying your application
         * Build automation tools
         * Continuous integration
-
------
 * Virtualization
     * Vagrant
         * A little help
     * Docker
         * Example: Running your PHP application in Docker
         * Learn more about Docker
-
------
 * Cache
     * Opcode cache
     * Object caching
