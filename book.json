@@ -5,7 +5,8 @@
         "back-to-top-button",
         "codepen",
         "indexes",
-        "phpclassdisplayer"
+        "phpclassdisplayer",
+        "theme-api"
     ],
     "pluginsConfig": {}
 }
