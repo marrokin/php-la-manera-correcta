@@ -34,20 +34,20 @@
 * [Buenas prácticas](buenas-practicas.md)
     * [Fundamentos](fundamentos.md)
     * [Fecha y hora](fecha-y-hora.md)
-    * Patrones de diseño
-    * Trabajando con UTF-8
-        * There’s no one-liner. Be careful, detailed, and consistent.
-        * UTF-8 at the PHP level
-        * UTF-8 at the Database level
-        * UTF-8 at the browser level
-        * Futher reading
+    * [Patrones de diseño](patrones-de-diseño.md)
+    * [Trabajando con UTF-8](trabajando-con-utf-8.md)
+        * [There’s no one-liner. Be careful, detailed, and consistent.](theres-no-one-liner-be-careful-detailed-and-consistent.md)
+        * [UTF-8 at the PHP level](utf-8-at-the-php-level.md)
+        * [UTF-8 at the Database level](utf-8-at-the-database-level.md)
+        * [UTF-8 at the browser level](utf-8-at-the-browser-level.md)
+        * [Futher reading](futher-reading.md)
 * [Bases de datos](bases-de-datos.md)
-    * MySQL extension
-    * PDO extension
-    * Interacting with database
-    * Abstraction layers
+    * [MySQL extension](mysql-extension.md)
+    * [PDO extension](pdo-extension.md)
+    * [Interacting with database](interacting-with-database.md)
+    * [Abstraction layers](abstraction-layers.md)
 * [Templates](templates.md)
-    * Benefits
+    * [Benefits](benefits.md)
     * Plain templates
         * Simple example of a plain PHP template
         * Example of a plain PHP templates using inheritance
