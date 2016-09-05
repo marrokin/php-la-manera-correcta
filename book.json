@@ -1,0 +1,6 @@
+{
+    "plugins": [
+        "algolia"
+    ],
+    "pluginsConfig": {}
+}
