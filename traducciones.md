@@ -1,4 +1,4 @@
-## **Traducciones**
+## Traducciones
 
 _PHP: La Manera Correcta_ ha sido \(o muy pronto será\) traducido a diferentes lenguajes:
 
