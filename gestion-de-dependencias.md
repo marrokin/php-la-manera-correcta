@@ -51,11 +51,11 @@ Primero, se crea un archivo composer.json en el mismo directorio donde se encuen
 
 `{`
 
-`   "require": {`
+`"require": {`
 
-`     "twig/twig": "1.8.*"`
+`"twig/twig": "1.8.*"`
 
-`   }`
+`}`
 
 `}`
 
@@ -67,7 +67,7 @@ Esto descargara y configurara la dependencia dentro de un directorio llamado ven
 
 `<?php`
 
-`  require 'vendor/autoload.php';`
+`require 'vendor/autoload.php';`
 
 Esta instrucción le dice a su programa que use el cargador automático de Composer para cargar cualquier dependencia que haya configurado. Ahora sus dependencias serán cargadas dinámicamente según su programa las requiera.
 
