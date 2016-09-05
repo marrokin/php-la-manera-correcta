@@ -29,3 +29,11 @@ _PHP: La Manera Correcta_ ha sido \(o muy pronto será\) traducido a diferentes 
 * [Turco](http://hkulekci.github.io/php-the-right-way/)
 * [Ucraniano](http://iflista.github.com/php-the-right-way)
 
+## ¿Cómo Colaborar?
+
+¡Ayuda a que este sitio se convierta en el mejor recurso para nuevos programadores en PHP! [Colabora en GitHub](https://github.com/phpdevenezuela/php-the-right-way/tree/gh-pages)
+
+## ¡Corre la voz!
+
+_PHP: La Manera Correcta_ tiene disponibles _banners_ que puedes usar en tu sitio web. ¡Apoya la causa y hazles saber a nuevos desarrolladores en PHP donde es que pueden encontrar buena información!
+
