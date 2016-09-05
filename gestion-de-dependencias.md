@@ -15,7 +15,7 @@ Composer es un **excelente** gestor de dependencias para PHP. Solo tiene que añ
 
 Ya existen muchas librerías PHP compatibles con Composer y están listas para que las use en su proyecto. Hay una lista de estos “paquetes” en el sitio [Packagist](http://packagist.org/), que es el repositorio oficial de librerías compatibles con Composer.
 
-## Como configurar Composer
+### Como configurar Composer
 
 Se puede instalar Composer local \(en el directorio de trabajo actual, aunque esto ya no es recomendable\) o globalmente \(por ejemplo, en \/user\/local\/bin\). Supongamos que usted quiere configurar Composer localmente. Desde el directorio raíz de su proyecto:
 
@@ -23,7 +23,7 @@ Se puede instalar Composer local \(en el directorio de trabajo actual, aunque es
 
 Esto descargará el archivo binario composer.phar. Se puede ejecutar este archivo con php para manejar las dependencias de su proyecto. _Por favor, tenga en cuenta:_ Si ejecuta el código directamente en el intérprete de PHP al mismo tiempo que lo descarga, tenga cuidado de leer el código del programa con anterioridad y confirmar que es seguro.
 
-## Como configurar Composer \(manualmente\)
+### Como configurar Composer \(manualmente\)
 
 Configurar Composer manualmente requiere técnicas avanzadas. No obstante, hay varias razones por las cuales un desarrollador como usted prefiera configurarlo de esta manera en vez de utilizar la rutina de configuración interactiva. La configuración interactiva verifica su sistema de PHP para asegurar que:
 
@@ -45,7 +45,7 @@ Cuando se encuentre con instrucciones que le sugieran ejecutar Composer con php 
 
 `composer install`
 
-## Como Definir y Configurar Dependencias
+### Como Definir y Configurar Dependencias
 
 Primero, se crea un archivo composer.json en el mismo directorio donde se encuentra composer.phar. Enseguida, encontramos un ejemplo que define el paquete [Twig](http://twig.sensiolabs.org) como una dependencia del proyecto:
 
@@ -73,7 +73,7 @@ Esta instrucción le dice a su programa que use el cargador automático de Compo
 
 * [Aprenda más acerca de Composer](http://getcomposer.org/doc/00-intro.md)
 
-**PEAR**
+## PEAR
 
 Otra alternativa para la gestión de paquetes que muchos desarrolladores en PHP prefieren es [PEAR](http://pear.php.net/). Su funcionamiento es muy similar al de Composer y vale la pena investigar más sus aspectos sobresalientes.
 
