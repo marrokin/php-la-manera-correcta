@@ -3,7 +3,8 @@
         "algolia",
         "autocover",
         "back-to-top-button",
-        "codepen"
+        "codepen",
+        "indexes"
     ],
     "pluginsConfig": {}
 }
