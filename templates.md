@@ -38,25 +38,23 @@ Using the [Plates](http://platesphp.com/) library.
 
 `<html>`
 
-`  <head>`
+`<head>`
 
-`    <title><?=$title?></title>`
+`<title><?=$title?></title>`
 
-`  </head>`
+`</head>`
 
-`  <body>`
+`<body>`
 
-`    <main>`
+`<main>`
 
-`      <?=$this->section('content')?>`
+`<?=$this->section('content')?>`
 
-`    </main>`
+`</main>`
 
-`  </body>`
+`</body>`
 
 `</html>`
-
-
 
 `<?php // user_profile.php ?>`
 
@@ -92,25 +90,23 @@ Using the [Twig](http://twig.sensiolabs.org/) library.
 
 `<html>`
 
-`  <head>`
+`<head>`
 
-`    <title>{% block title %}{% endblock %}</title>`
+`<title>{% block title %}{% endblock %}</title>`
 
-`  </head>`
+`</head>`
 
-`  <body>`
+`<body>`
 
-`    <main>`
+`<main>`
 
-`      {% block content %}{% endblock %}`
+`{% block content %}{% endblock %}`
 
-`    </main>`
+`</main>`
 
-`  </body>`
+`</body>`
 
 `</html>`
-
-
 
 `// user_profile.html`
 
@@ -120,9 +116,9 @@ Using the [Twig](http://twig.sensiolabs.org/) library.
 
 `{% block content %}`
 
-` <h1>User Profile</h1>`
+`<h1>User Profile</h1>`
 
-` <p>Hello, {{ name }}</p>`
+`<p>Hello, {{ name }}</p>`
 
 `{% endblock %}`
 
