@@ -1,0 +1,16 @@
+{
+    "plugins": [
+        "autocover",
+        "back-to-top-button",
+        "blog",
+        "chatlog",
+        "code-highlighter"
+    ],
+    "pluginsConfig": {
+        "chatlog": {
+            "chathead-date-prefix": "<div class=\"chatlog__head\"><span>",
+            "chathead-date-suffix": "</span></div>",
+            "users": ""
+        }
+    }
+}
