@@ -4,7 +4,8 @@
         "autocover",
         "back-to-top-button",
         "codepen",
-        "indexes"
+        "indexes",
+        "phpclassdisplayer"
     ],
     "pluginsConfig": {}
 }
