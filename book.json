@@ -1,0 +1,12 @@
+{
+    "plugins": [
+        "algolia",
+        "autocover",
+        "back-to-top-button",
+        "codepen",
+        "indexes",
+        "phpclassdisplayer",
+        "theme-api"
+    ],
+    "pluginsConfig": {}
+}
