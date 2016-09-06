@@ -72,9 +72,11 @@
 * [Seguridad](seguridad.md)
     * [Seguridad en aplicaciones web](seguridad-en-aplicaciones-web.md)
     * [Hash de contraseñas](hash-de-contraseñas.md)
+    * Hash de contraseñas con password\_hash
     * Filtrado de datos
         * Saneamiento
         * Validacion
+        * Register globals
     * Reporte de errores
         * Desarrollo
         * Producción
@@ -88,7 +90,6 @@
 
 -----
 * Archivos de configuración
-* Register globals
 * Servidores y despliegue
     * Plataforma como servicio \(PaaS\)
     * Servidores virtuales o dedicados
