@@ -2,7 +2,6 @@
     "plugins": [
         "autocover",
         "back-to-top-button",
-        "blog",
         "chatlog",
         "code-highlighter"
     ],
