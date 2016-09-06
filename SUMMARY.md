@@ -79,7 +79,8 @@
     * [Reporte de errores](reporte-de-errores.md)
         * [Desarrollo](desarrollo.md)
         * [Producción](producción.md)
----
+
+--- Por editar ---
 * Pruebas
     * Test driven development
         * Unit testing
