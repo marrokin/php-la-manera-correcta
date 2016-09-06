@@ -62,13 +62,9 @@
     * [Simple example of a plain PHP template](simple-example-of-a-plain-php-template.md)
     * [Example of a plain PHP templates using inheritance](example-of-a-plain-php-templates-using-inheritance.md)
 
-  * [Compiled templates](/Compiled Templates)
+  * [Compiled templates](compiled-templates.md)
     * [Simple example of a compiled template](simple-example-of-a-compiled-template.md)
-    * Example of compiled templates using inheritance
-
-  * Fother reading
-    * Articles & tutorials
-    * Libraries
+    * [Example of compiled templates using inheritance](example-of-compiled-templates-using-inheritance.md)
 
 
 * [Error & Exceptions](error--exceptions.md)
@@ -80,6 +76,11 @@
 
   * [Exceptions](exceptions.md)
     * SPL Exceptions
+
+
+  * [Fother reading](fother-reading.md)
+    * [Articles & tutorials](articles--tutorials.md)
+    * [Libraries](libraries.md)
 
 
 * Seguridad
