@@ -1,4 +1,4 @@
-# Summary
+# Contenido
 
 * [Introducción](README.md)
 * [Bienvenido](bienvenido.md)
@@ -27,6 +27,7 @@
   * [Namespaces](namespaces.md)
 
   * [Libreria estandar de php](libreria-estandar-de-php.md)
+
   * [Interface de linea de comandos](interface-de-linea-de-comandos.md)
   * [XDebug](xdebug.md)
 
@@ -41,6 +42,7 @@
   * [PEAR](pear.md)
 
 
+
 * [Inyección de dependencias](inyección-de-dependencias.md)
 
   * [Basic Concept](basic-concept.md)
@@ -52,6 +54,7 @@
   * Containers
 
   * [Futher reading](futher-reading.md)
+
 
 * [Buenas prácticas](buenas-practicas.md)
 
@@ -121,6 +124,7 @@
   * Archivos de configuración
 
   * Register globals
+
   * Reporte de errores
     * Desarrollo
     * Producción
@@ -158,6 +162,7 @@
   * Servidores compartidos
 
   * Building and deploying your application
+
     * Build automation tools
     * Continuous integration
 
