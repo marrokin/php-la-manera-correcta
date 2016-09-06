@@ -6,10 +6,10 @@ _No existe una manera canónica de utilizar PHP_. Este sitio tiene como objetivo
 
 Consideramos este sitio como un documento vivo que se continuará actualizando con más información útil y ejemplos según se hagan disponibles.
 
-* ## Traducciones
+* ## [Traducciones](/traducciones.md)
 
-* ## ¿Cómo Colaborar?
+* ## [¿Cómo Colaborar?](/¿como-colaborar.md)
 
-* ## ¡Corre la voz!
+* ## [¡Corre la voz!](/¡corre-la-voz.md)
 
 
