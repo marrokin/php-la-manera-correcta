@@ -1,6 +1,6 @@
 # Summary
-# PHP La Manera Correcta
 
+## PHP La Manera Correcta
 * [Introducción](README.md)
 * [Bienvenido](bienvenido.md)
     * [Traducciones](traducciones.md)
