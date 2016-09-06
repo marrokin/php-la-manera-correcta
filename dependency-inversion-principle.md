@@ -1,4 +1,4 @@
-**Dependency Inversion Principle**
+### Dependency Inversion Principle
 
 Dependency Inversion Principle is the “D” in the S.O.L.I.D set of object oriented design principles that states one should _“Depend on Abstractions. Do not depend on concretions.”_. Put simply, this means our dependencies should be interfaces\/contracts or abstract classes rather than concrete implementations. We can easily refactor the above example to follow this principle.
 
@@ -6,31 +6,23 @@ Dependency Inversion Principle is the “D” in the S.O.L.I.D set of object ori
 
 `namespace Database;`
 
-
-
 `class Database`
 
 `{`
 
-` protected $adapter;`
+`protected $adapter;`
 
+`public function __construct(AdapterInterface $adapter)`
 
+`{`
 
-` public function __construct(AdapterInterface $adapter)`
-
-` {`
-
-` $this->adapter = $adapter;`
-
-` }`
+`$this->adapter = $adapter;`
 
 `}`
 
-
+`}`
 
 `interface AdapterInterface {}`
-
-
 
 `class MysqlAdapter implements AdapterInterface {}`
 
