@@ -33,8 +33,11 @@
   * [PEAR](pear.md)
 
 * [Inyección de dependencias](inyección-de-dependencias.md)
-  * Basic Concept
-  * Complex problem
+  * [Basic Concept](basic-concept.md)
+  * [Complex problem](complex-problem.md)
+    * Inversion of control
+    * Dependency inversion principle
+
   * Containers
   * [Futher reading](futher-reading.md)
 
@@ -49,6 +52,9 @@
     * [UTF-8 at the browser level](utf-8-at-the-browser-level.md)
     * [Futher reading](futher-reading.md)
 
+
+
+---
 
 * [Bases de datos](bases-de-datos.md)
   * [MySQL extension](mysql-extension.md)
@@ -67,6 +73,9 @@
     * [Example of compiled templates using inheritance](example-of-compiled-templates-using-inheritance.md)
 
 
+
+---
+
 * [Error & Exceptions](error--exceptions.md)
   * [Errors](errors.md)
     * Error severity
@@ -78,10 +87,15 @@
     * SPL Exceptions
 
 
-  * [Fother reading](fother-reading.md)
-    * [Articles & tutorials](articles--tutorials.md)
-    * [Libraries](libraries.md)
 
+---
+
+* [Fother reading](fother-reading.md)
+  * [Articles & tutorials](articles--tutorials.md)
+  * [Libraries](libraries.md)
+
+
+---
 
 * Seguridad
   * Seguridad en aplicaciones web
@@ -97,6 +111,9 @@
     * Producción
 
 
+
+---
+
 * Pruebas
   * Test driven development
     * Unit testing
@@ -111,6 +128,9 @@
 
 
 
+
+---
+
 * Servidores y despliegue
   * Plataforma como servicio \(PaaS\)
   * Servidores virtuales o dedicados
@@ -123,6 +143,9 @@
     * Continuous integration
 
 
+
+---
+
 * Virtualization
   * Vagrant
     * A little help
@@ -131,6 +154,9 @@
     * Example: Running your PHP application in Docker
     * Learn more about Docker
 
+
+
+---
 
 * Cache
   * Opcode cache
