@@ -79,62 +79,42 @@
     * [Reporte de errores](reporte-de-errores.md)
         * [Desarrollo](desarrollo.md)
         * [Producción](producción.md)
-
------
+---
 * Pruebas
     * Test driven development
         * Unit testing
         * Functional testing
             * Funtional testing tools
-
------
 * Servidores y despliegue
     * Plataforma como servicio \(PaaS\)
     * Servidores virtuales o dedicados
         * ngnix y PHP-FPM
         * Apache y PHP
-
------
 * Servidores compartidos
 * Building and deploying your application
     * Build automation tools
     * Continuous integration
-
------
 * Virtualization
     * Vagrant
         * A little help
-
------
 * Docker
     * Example: Running your PHP application in Docker
     * Learn more about Docker
-
------
 * Cache
     * Opcode cache
     * Object caching
-
------
 * Recursos
     * Directamente de la fuente
     * Gente a seguir
     * Mentores
     * Proveedores de PHP PaaS
-
------
 * Frameworks
     * Componentes
-
------
 * Comunidad
     * Grupos de usuarios de PHP
     * Conferencias de PHP
-
------
 * PHPDoc
     * Créditos
     * Creado y mentenido por
     * Contribuyentes al proyecto
     * Patrocinadores del proyecto
-
