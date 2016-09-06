@@ -80,7 +80,7 @@
         * [Desarrollo](desarrollo.md)
         * [Producción](producción.md)
 
---- Por editar ---
+## Por editar
 * Pruebas
     * Test driven development
         * Unit testing
@@ -119,3 +119,4 @@
     * Creado y mentenido por
     * Contribuyentes al proyecto
     * Patrocinadores del proyecto
+
