@@ -1,3 +1,4 @@
+# Summary
 # PHP La Manera Correcta
 
 * [Introducción](README.md)
