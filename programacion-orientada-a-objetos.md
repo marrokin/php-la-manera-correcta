@@ -1,4 +1,4 @@
-## Programación Orientada a Objetos
+### Programación Orientada a Objetos
 
 PHP tiene un conjunto muy completo de aspectos que facilitan la programación orientada a objetos \(OOP\) que incluye la habilidad de crear clases, clases abstractas, interfaces, herencia, constructores, clonación de objetos, excepciones y mucho más.
 

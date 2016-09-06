@@ -6,34 +6,10 @@ _No existe una manera canónica de utilizar PHP_. Este sitio tiene como objetivo
 
 Consideramos este sitio como un documento vivo que se continuará actualizando con más información útil y ejemplos según se hagan disponibles.
 
-## Traducciones
+* ## Traducciones
 
-_PHP: La Manera Correcta_ ha sido \(o muy pronto será\) traducido a diferentes lenguajes:
+* ## ¿Cómo Colaborar?
 
-* [Alemán](http://rwetzlmayr.github.io/php-the-right-way)
-* [Búlgaro](http://bg.phptherightway.com)
-* [Chino \(simplificado\)](http://wulijun.github.com/php-the-right-way)
-* [Coreano](http://wafe.github.io/php-the-right-way)
-* [Esloveno](http://sl.phptherightway.com/)
-* [Español](http://phpdevenezuela.github.io/php-the-right-way)
-* [Francés](http://eilgin.github.io/php-the-right-way/)
-* [Indonesio](http://id.phptherightway.com/)
-* [Inglés](http://www.phptherightway.com)
-* [Italiano](http://it.phptherightway.com)
-* [Japones](http://ja.phptherightway.com)
-* [Polaco](http://pl.phptherightway.com)
-* [Portugués](http://br.phptherightway.com)
-* [Rumano](https://bgui.github.io/php-the-right-way/)
-* [Ruso](http://getjump.github.io/ru-php-the-right-way)
-* [Thai](https://apzentral.github.io/php-the-right-way/)
-* [Turco](http://hkulekci.github.io/php-the-right-way/)
-* [Ucraniano](http://iflista.github.com/php-the-right-way)
+* ## ¡Corre la voz!
 
-## ¿Cómo Colaborar?
-
-¡Ayuda a que este sitio se convierta en el mejor recurso para nuevos programadores en PHP! [Colabora en GitHub](https://github.com/phpdevenezuela/php-the-right-way/tree/gh-pages)
-
-## ¡Corre la voz!
-
-_PHP: La Manera Correcta_ tiene disponibles _banners_ que puedes usar en tu sitio web. ¡Apoya la causa y hazles saber a nuevos desarrolladores en PHP donde es que pueden encontrar buena información!
 

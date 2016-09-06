@@ -4,3 +4,10 @@ Composer es un **excelente** gestor de dependencias para PHP. Solo tiene que añ
 
 Ya existen muchas librerías PHP compatibles con Composer y están listas para que las use en su proyecto. Hay una lista de estos “paquetes” en el sitio [Packagist](http://packagist.org/), que es el repositorio oficial de librerías compatibles con Composer.
 
+* ### Como configurar Composer
+
+* ### Como configurar Composer \(manualmente\)
+
+* ### Como Definir y Configurar Dependencias
+
+

@@ -1,4 +1,4 @@
-## Programación Funcional
+### Programación Funcional
 
 PHP tiene la capacidad de declarar funciones de primera clase, en otras palabras, una función puede ser asignada a un variable. Las funciones definidas por el usuario, así como las funciones internas \(incluidas\), tiene la habilidad de ser referenciadas por un variable e invocadas dinámicamente. Las funciones pueden ser pasadas como argumentos a otras funciones \(un aspecto llamado funciones de orden superior\) y funciones pueden devolver otras funciones.
 
