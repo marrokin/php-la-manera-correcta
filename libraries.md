@@ -1,4 +1,4 @@
-_**Libraries**_
+### Libraries
 
 * [Aura.View](https://github.com/auraphp/Aura.View) _\(native\)_
 * [Blade](http://laravel.com/docs/templates) _\(compiled, framework specific\)_
@@ -10,7 +10,4 @@ _**Libraries**_
 * [Smarty](http://www.smarty.net/) _\(compiled\)_
 * [Twig](http://twig.sensiolabs.org/) _\(compiled\)_
 * [Zend\View](http://framework.zend.com/manual/2.3/en/modules/zend.view.quick-start.html) _\(native, framework specific\)_
-
-  l
-
 

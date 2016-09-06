@@ -43,15 +43,11 @@
         * [Dependency inversion principle](dependency-inversion-principle.md)
     * [Containers](containers.md)
     * [Injection Futher Reading](injection-futher-reading.md)
-
------
 * [Bases de datos](bases-de-datos.md)
     * [MySQL extension](mysql-extension.md)
     * [PDO extension](pdo-extension.md)
     * [Interacting with database](interacting-with-database.md)
     * [Abstraction layers](abstraction-layers.md)
-
------
 * [Templates](templates.md)
     * [Benefits](benefits.md)
     * [Plain templates](plain-templates.md)
@@ -60,19 +56,17 @@
     * [Compiled templates](compiled-templates.md)
         * [Simple example of a compiled template](simple-example-of-a-compiled-template.md)
         * [Example of compiled templates using inheritance](example-of-compiled-templates-using-inheritance.md)
-    * [Fother reading](fother-reading.md)
+    * [Futher reading](fother-reading.md)
         * [Articles & tutorials](articles--tutorials.md)
         * [Libraries](libraries.md)
-
------
 * [Error & Exceptions](error--exceptions.md)
     * [Errors](errors.md)
-        * Error severity
-        * Changing PHP's Error reporting behaviour
-        * Inline error suppression
-        * ErrorException
+        * [Error severity](error-severity.md)
+        * [Changing PHP's Error reporting behaviour](changing-phps-error-reporting-behaviour.md)
+        * [Inline error suppression](inline-error-suppression.md)
+        * [ErrorException](errorexception.md)
     * [Exceptions](exceptions.md)
-        * SPL Exceptions
+        * [SPL Exceptions](spl-exceptions.md)
 
 -----
 * [Seguridad](seguridad.md)

@@ -1,30 +1,24 @@
-_**Example of compiled templates using inheritance**_
+### Example of compiled templates using inheritance
 
 Using the [Twig](http://twig.sensiolabs.org/) library.
 
 `// template.html`
 
-
-
 `<html>`
 
 `<head>`
 
-` <title>{% block title %}{% endblock %}</title>`
+`<title>{% block title %}{% endblock %}</title>`
 
 `</head>`
 
 `<body>`
 
-
-
 `<main>`
 
-` {% block content %}{% endblock %}`
+`{% block content %}{% endblock %}`
 
 `</main>`
-
-
 
 `</body>`
 
@@ -32,19 +26,15 @@ Using the [Twig](http://twig.sensiolabs.org/) library.
 
 `// user_profile.html`
 
-
-
 `{% extends "template.html" %}`
-
-
 
 `{% block title %}User Profile{% endblock %}`
 
 `{% block content %}`
 
-` <h1>User Profile</h1>`
+`<h1>User Profile</h1>`
 
-` <p>Hello, {{ name }}</p>`
+`<p>Hello, {{ name }}</p>`
 
-`{% endblock %} `
+`{% endblock %}`
 

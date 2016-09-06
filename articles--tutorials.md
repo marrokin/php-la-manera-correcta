@@ -1,4 +1,4 @@
-_**Articles & Tutorials**_
+### Articles & Tutorials
 
 * [Templating Engines in PHP](http://fabien.potencier.org/article/34/templating-engines-in-php)
 * [An Introduction to Views & Templating in CodeIgniter](http://code.tutsplus.com/tutorials/an-introduction-to-views-templating-in-codeigniter--net-25648)
