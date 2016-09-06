@@ -29,6 +29,7 @@
   * [Libreria estandar de php](libreria-estandar-de-php.md)
 
   * [Interface de linea de comandos](interface-de-linea-de-comandos.md)
+
   * [XDebug](xdebug.md)
 
 * [Gestión de dependencias](gestion-de-dependencias.md)
@@ -49,11 +50,14 @@
   * [Complex problem](complex-problem.md)
 
     * Inversion of control
+
     * Dependency inversion principle
+
 
   * Containers
 
   * [Futher reading](futher-reading.md)
+
 
 
 * [Buenas prácticas](buenas-practicas.md)
@@ -126,6 +130,7 @@
   * Register globals
 
   * Reporte de errores
+
     * Desarrollo
     * Producción
 
