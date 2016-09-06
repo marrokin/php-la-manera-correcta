@@ -36,8 +36,6 @@
         * [UTF-8 at the Database level](utf-8-at-the-database-level.md)
         * [UTF-8 at the browser level](utf-8-at-the-browser-level.md)
         * [Futher reading](futher-reading.md)
-
------
 * [Inyección de dependencias](inyección-de-dependencias.md)
     * [Basic Concept](basic-concept.md)
     * [Complex problem](complex-problem.md)
@@ -61,8 +59,6 @@
     * [Futher reading](fother-reading.md)
         * [Articles & tutorials](articles--tutorials.md)
         * [Libraries](libraries.md)
-
------
 * [Error & Exceptions](error--exceptions.md)
     * [Errors](errors.md)
         * [Error severity](error-severity.md)
@@ -71,8 +67,6 @@
         * [ErrorException](errorexception.md)
     * [Exceptions](exceptions.md)
         * [SPL Exceptions](spl-exceptions.md)
-
------
 * [Seguridad](seguridad.md)
     * [Seguridad en aplicaciones web](seguridad-en-aplicaciones-web.md)
     * [Hash de contraseñas](hash-de-contraseñas.md)
